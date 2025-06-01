@@ -1,0 +1,9 @@
+name: shareItem
+version: '1.0-SNAPSHOT'
+main: main.rottenbread.shareim.shareItem.ShareItem
+api-version: '1.21'
+commands:
+  공개:
+    description: 손에 든 아이템 공유
+    usage: /<command>
+    permission: si.open
